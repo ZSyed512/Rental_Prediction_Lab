@@ -5,24 +5,21 @@ Credit to the [Data Science Working Group](http://datascience.codeforsanfrancisc
 Begin reading `instructions.md` to get started.
 
 ## Project Intro/Objective
-The purpose of this project is ________. (Describe the main goals of the project and potential civic impact. Limit to a short paragraph, 3-6 Sentences)
+The purpose of this project is to analyze and predict a dataset to determine how much a client should charge for their property. This involves three main steps including exploring the data, cleaning the data and finally performing a simple linear regression on the model
 
 ### Methods Used
 * Inferential Statistics
 * Machine Learning
 * Data Visualization
 * Predictive Modeling
-* etc.
+* Linear Regression
 
 ### Technologies
-* R 
 * Python
-* D3
-* PostGres, MySql
 * Pandas, jupyter
-* HTML
-* JavaScript
-* etc. 
+* Visual Studio Code
+* SKLearn
 
 ## Project Description
-(Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
+We were provided the data sources in the project file. They include excel files. The task is to explore and clean the data in order to remove any outliers and missing values. This involves exploring the data using histograms, scatter plots and heat maps. After renaming columns and cleaning the data, I again displayed histograms and scatter plots to verify that the data was properly cleaned. Finally, I created a linear regression model object and performed a simple linear regression.
+
