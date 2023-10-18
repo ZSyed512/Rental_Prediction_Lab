@@ -1,11 +1,7 @@
 # rental-pricing-explore
 
-Credit to the [Data Science Working Group](http://datascience.codeforsanfrancisco.org) for this template. To complete this project, delete all template text (save for the headers) and fill in your own information.
-
-Begin reading `instructions.md` to get started.
-
 ## Project Intro/Objective
-The purpose of this project is to analyze and predict a dataset to determine how much a client should charge for their property. This involves three main steps including exploring the data, cleaning the data and finally performing a simple linear regression on the model
+The purpose of this project is to analyze and predict a dataset to determine how much a client should charge for their property in Taipei City. This involves three main steps including exploring the data, cleaning the data and finally performing a simple linear regression on the model
 
 ### Methods Used
 * Inferential Statistics
